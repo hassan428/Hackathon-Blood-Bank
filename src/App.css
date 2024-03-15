@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-image {
+    background-image: url(../src/assets/bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+}
+.bg-card {
+    background-image: url(../src/assets/bg-card.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+}
